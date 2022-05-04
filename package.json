@@ -1,0 +1,23 @@
+{
+  "name": "unit-test-practice",
+  "version": "1.0.0",
+  "description": "jhjhkjh",
+  "main": "unitTest.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gids-dadi/unit-test-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gids-dadi/unit-test-practice/issues"
+  },
+  "homepage": "https://github.com/gids-dadi/unit-test-practice#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
